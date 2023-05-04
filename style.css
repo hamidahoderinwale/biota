@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: 'Hanken Grotesk', sans-serif;
+  margin: 45px 48px;
+  line-height: 1.4;
+  word-spacing: 2.5 px;
+  font-size: 16px;
+  background: #F9F6F1;
+  color: #022624;
+}
+
+.main {
+  font-size: 18px;
+}
